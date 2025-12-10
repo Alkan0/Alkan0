@@ -51,18 +51,6 @@ Regex-based scraping utilities
 
 ---
 
-## 📊 GitHub Insights
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Alkan0&theme=dark&hide_border=true" width="450" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alkan0&layout=compact&theme=dark&hide_border=true" width="350" />
-</p>
-
----
-
 ## 🌐 Connect with Me
 - LinkedIn: https://www.linkedin.com/in/alkinoos-michail-michalopoulos-tsemetsis-4412a6262
 - Website: https://www.amichalo.gr
