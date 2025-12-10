@@ -1,16 +1,14 @@
-## Hi there 👋
+# 👋 Hi, I'm Alkinoos
 
-<!--
-**Alkan0/Alkan0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Software Engineer @ Ernst & Young (EY) Greece**  
+Working on large-scale banking systems within Piraeus Bank’s digital transformation.
 
-Here are some ideas to get you started:
+### 🔧 Technologies I work with
+- C#, Java, JavaScript, SQL
+- Distributed systems
+- Banking / enterprise architecture
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📌 Projects
+- Personal Website
+- API Aggregation Service
+- Algorithms in C
