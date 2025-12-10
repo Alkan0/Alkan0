@@ -13,21 +13,21 @@ I’m a Computer Engineering student and software engineer passionate about buil
 I enjoy working with distributed architectures, backend engineering, cryptography concepts and modern software tech.
 
 🌍 Portfolio: **https://www.amichalo.gr**  
-📫 Email: **alkinoos.michalopoulos.tsemetsis@gmail.com**
+📫 Email: **alkinoos.m@outlook.com**
 
 ---
 
 ## 🛠 Tech Stack
 
 ### Languages
-- **C#**, **Java**, **JavaScript**, **TypeScript**
+- **C#**, **Node.js**, **JavaScript**, **TypeScript**
 - **C**, **Python**
 
 ### Domains / Expertise
 - Distributed Systems  
 - Enterprise & Banking Software  
 - REST APIs & Integration Services  
-- Algorithms & Data Structures  
+- Algorithms & Data Structures
 
 ---
 
