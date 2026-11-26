@@ -2,7 +2,7 @@
 
 <p align="center">
   <strong>Software Engineer @ Ernst & Young (EY) Greece</strong><br/>
-  Working on large-scale banking systems within Piraeus Bank’s digital transformation.
+  Working on large-scale banking systems digital transformation.
 </p>
 
 ---
